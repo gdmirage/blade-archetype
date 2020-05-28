@@ -1,0 +1,2 @@
+# blade-archetype
+my archetype
